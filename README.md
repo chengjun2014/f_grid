@@ -1,6 +1,5 @@
 # Grid 
 > 基于`bootstrap`第三版
-
 > @只能使用 md 或 lg；类格式：col-@-x
 
 ## 文档说明
